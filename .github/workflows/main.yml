@@ -1,0 +1,25 @@
+{
+    "spec": 1,
+    "name": "The Binding Of Isaac",
+    "previewText": "Isaac and his mother...",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://github.com/afk530/The-Saac-Links/raw/refs/heads/main/Font_soulsV2_Title-Regular.ttf",
+        "ggsans-Bold": "https://github.com/afk530/The-Saac-Links/raw/refs/heads/main/Font_soulsV2_Body-Regular.ttf",
+        "ggsans-BoldItalic": "https://github.com/afk530/The-Saac-Links/raw/refs/heads/main/upheavtt.ttf",
+        "ggsans-ExtraBold": "https://github.com/afk530/The-Saac-Links/raw/refs/heads/main/Font_soulsV2_Title-Regular.ttf",
+        "ggsans-ExtraBoldItalic": "https://github.com/afk530/The-Saac-Links/raw/refs/heads/main/upheavtt.ttf",
+        "ggsans-Medium": "https://github.com/afk530/The-Saac-Links/raw/refs/heads/main/Isaacsans-lEpZ.ttf",
+        "ggsans-MediumItalic": "https://github.com/afk530/The-Saac-Links/raw/refs/heads/main/IsaacFontDescriptionEngRus-Fill.ttf",
+        "ggsans-Normal": "https://github.com/afk530/The-Saac-Links/raw/refs/heads/main/Isaacsans-lEpZ.ttf",
+        "ggsans-NormalItalic": "https://github.com/afk530/The-Saac-Links/raw/refs/heads/main/IsaacFontDescriptionEngRus-Fill.ttf",
+        "ggsans-Semibold": "https://github.com/afk530/The-Saac-Links/raw/refs/heads/main/IsaacFontDescriptionEngRus-Outline.ttf",
+        "ggsans-SemiboldItalic": "https://github.com/afk530/The-Saac-Links/raw/refs/heads/main/upheavtt.ttf",
+        "NotoSans-Bold": "https://github.com/afk530/The-Saac-Links/raw/refs/heads/main/Font_soulsV2_Body-Regular.ttf",
+        "NotoSans-ExtraBold": "https://github.com/afk530/The-Saac-Links/raw/refs/heads/main/Font_soulsV2_Title-Regular.ttf",
+        "NotoSans-Medium": "https://github.com/afk530/The-Saac-Links/raw/refs/heads/main/Isaacsans-lEpZ.ttf",
+        "NotoSans-Normal": "https://github.com/afk530/The-Saac-Links/raw/refs/heads/main/Isaacsans-lEpZ.ttf",
+        "NotoSans-NormalItalic": "https://github.com/afk530/The-Saac-Links/raw/refs/heads/main/IsaacFontDescriptionEngRus-Fill.ttf",
+        "NotoSans-Semibold": "https://github.com/afk530/The-Saac-Links/raw/refs/heads/main/IsaacFontDescriptionEngRus-Outline.ttf",
+        "SourceCodePro-Semibold": "https://github.com/afk530/The-Saac-Links/raw/refs/heads/main/IsaacFontDescriptionEngRus-Outline.ttf"
+    }
+}
